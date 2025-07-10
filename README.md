@@ -165,3 +165,4 @@ A aplicação está configurada para deploy no Render com as seguintes caracter�
 Para dúvidas ou problemas, consulte a documentação oficial da API do Mercado Livre:
 - https://developers.mercadolivre.com.br/
 
+# MercadoLivreJulho
